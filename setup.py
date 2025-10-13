@@ -92,7 +92,7 @@ extras_require = {
     ],
     "melotts": [
         "txtsplit==1.0.0",
-        "cached_path==1.7.3",
+        "cached_path==1.8.0",
         "num2words==0.5.14",
         "g2p_en==2.1.0",
         "anyascii==0.3.2",
