@@ -54,7 +54,7 @@ extras_require = {
     "agents": [
         "llama-index==0.13.6",
         "llama-index-readers-file==0.5.3",
-        "llama-index-readers-web==0.5.1",
+        "llama-index-readers-web==0.5.5",
         "llama-index-llms-huggingface==0.6.0",
         "llama-index-llms-groq==0.4.0",
         "llama-index-embeddings-mistralai==0.4.0",
