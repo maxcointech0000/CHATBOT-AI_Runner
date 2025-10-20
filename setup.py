@@ -182,7 +182,7 @@ setup(
         "huggingface-hub>=0.24.0,<1.0",
         "tokenizers==0.22.0",
         "optimum==1.25.1",
-        "numpy==2.2.5",
+        "numpy==2.3.4",
         "pillow==10.4.0",
         "alembic==1.15.2",
         "aiosqlite==0.21.0",
