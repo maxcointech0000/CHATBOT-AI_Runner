@@ -28,7 +28,7 @@ extras_require = {
         "pytest",
         "python-dotenv==1.0.1",
         "coverage==7.8.0",
-        "black==25.1.0",
+        "black==25.9.0",
         "pyinstaller==6.12.0",
         "flake8==7.2.0",
         "mypy==1.16.0",
